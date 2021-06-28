@@ -22,3 +22,5 @@ fc1.bias
 torch.float32 10
 The number of all parameters:  956
 ```
+
+https://gist.github.com/akawashiro/038a5ddffe512d1f8b3b13cfb42b2729
